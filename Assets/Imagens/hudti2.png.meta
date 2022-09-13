@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 53afce53272d9ca4b8ccb4d46e1d50cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7507661680541299025
+    second: fundov1
+  - first:
+      213: 3124931972377429974
+    second: fundov1_02
+  - first:
+      213: 8960805839694699491
+    second: fundov2
+  - first:
+      213: 7791023036911052728
+    second: hudti2_3
+  - first:
+      213: 3607774657287184264
+    second: botaov1
+  - first:
+      213: 3277944888917064009
+    second: botao_conf_v1
+  - first:
+      213: -5434049445344246915
+    second: botao_conf_v2[
+  - first:
+      213: 7004713372461593656
+    second: botao_fechar
+  - first:
+      213: 8863691034902174358
+    second: botaov2
+  - first:
+      213: -6204022570809007617
+    second: hudti2_9
+  - first:
+      213: -6568047756313465176
+    second: topov1
+  - first:
+      213: -9095111051389390294
+    second: botao_pause_v1
+  - first:
+      213: 1412067021464195221
+    second: botao_pause_v2
+  - first:
+      213: 8747703387431554233
+    second: botao_duvidas
+  - first:
+      213: -1537303359172578278
+    second: topv2
+  - first:
+      213: -7726804713605087184
+    second: energia
+  - first:
+      213: 6039199844547555481
+    second: energia_fundo
+  - first:
+      213: 4053684533177311393
+    second: botao_restart_v1
+  - first:
+      213: 1947067836524599256
+    second: botao_restart_v2
+  - first:
+      213: -8434308392549849413
+    second: sair
+  - first:
+      213: 3246999296998143482
+    second: menu
+  - first:
+      213: -6326257292329274305
+    second: energia_barra
+  - first:
+      213: 6064764831392054499
+    second: jogar
+  - first:
+      213: 7464011268472286914
+    second: hudti2_24
+  - first:
+      213: -7275125353031062791
+    second: confg
+  - first:
+      213: 8597314617870438023
+    second: hudti2_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fundov1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 790
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 17, z: 8, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae06859a7d6fc790800000000000000
+      internalID: -7507661680541299025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundov1_02
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 763
+        width: 792
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 15, z: 12, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d741d0821dfd5b20800000000000000
+      internalID: 3124931972377429974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundov2
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 756
+        width: 796
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb9f305f6d2b5c70800000000000000
+      internalID: 8960805839694699491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botaov1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 592
+        width: 493
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f524d9fe3611230800000000000000
+      internalID: 3607774657287184264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_conf_v1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 481
+        width: 159
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949753952899d7d20800000000000000
+      internalID: 3277944888917064009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_conf_v2[
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 481
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73095ef1d06694b0800000000000000
+      internalID: -5434049445344246915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_fechar
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 481
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834700f13bdb53160800000000000000
+      internalID: 7004713372461593656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botaov2
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 563
+        width: 497
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a982ec808220b70800000000000000
+      internalID: 8863691034902174358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topov1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 376
+        width: 612
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae62295d5b99d4a0800000000000000
+      internalID: -6568047756313465176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_pause_v1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 303
+        width: 159
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b43dcfaca7c180800000000000000
+      internalID: -9095111051389390294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_pause_v2
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 303
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590da6d797ba89310800000000000000
+      internalID: 1412067021464195221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_duvidas
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 303
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc65032e5166970800000000000000
+      internalID: 8747703387431554233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topv2
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 355
+        width: 609
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f0846db66aaae0800000000000000
+      internalID: -1537303359172578278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 78
+        width: 87
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03041c42d00e4c490800000000000000
+      internalID: -7726804713605087184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia_fundo
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 180
+        width: 556
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f9d5f24c8fc350800000000000000
+      internalID: 6039199844547555481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_restart_v1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 110
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a067870b94914830800000000000000
+      internalID: 4053684533177311393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botao_restart_v2
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 110
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d713ad91ef550b10800000000000000
+      internalID: 1947067836524599256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sair
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 133
+        width: 164
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb668ff243153fa80800000000000000
+      internalID: -8434308392549849413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 134
+        width: 248
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5748348a8af0d20800000000000000
+      internalID: 3246999296998143482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia_barra
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 540
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343df4b28e9438a0800000000000000
+      internalID: -6326257292329274305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogar
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 15
+        width: 244
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb76d4b7f5a2450800000000000000
+      internalID: 6064764831392054499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confg
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 11
+        width: 624
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa25246900990b90800000000000000
+      internalID: -7275125353031062791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      botao_conf_v1: 3277944888917064009
+      menu: 3246999296998143482
+      botao_duvidas: 8747703387431554233
+      sair: -8434308392549849413
+      botao_conf_v2[: -5434049445344246915
+      confg: -7275125353031062791
+      topov1: -6568047756313465176
+      botao_restart_v2: 1947067836524599256
+      fundov1_02: 3124931972377429974
+      botao_fechar: 7004713372461593656
+      energia: -7726804713605087184
+      botaov1: 3607774657287184264
+      fundov2: 8960805839694699491
+      energia_barra: -6326257292329274305
+      botaov2: 8863691034902174358
+      botao_pause_v1: -9095111051389390294
+      botao_restart_v1: 4053684533177311393
+      jogar: 6064764831392054499
+      topv2: -1537303359172578278
+      energia_fundo: 6039199844547555481
+      fundov1: -7507661680541299025
+      botao_pause_v2: 1412067021464195221
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
